@@ -55,4 +55,4 @@ streamlit run streamlit_rag_voice_enabled.py
    - Retrieves relevant chunks and sends them to the Mistral model.
    - Displays the answer and plays audio (optional).
 
-
+If any queries please send mail to rajaganeshh@gmail.com
